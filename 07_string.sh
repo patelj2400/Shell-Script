@@ -15,7 +15,7 @@ var="Hey this is script is demonstrate string operation"
 
 #here store for length
 myVarLength=${#var}
-echo "Length of the myvar is =  $var"
+echo "Show a variable=  $var"
 
 #Find the length of variable
 echo "Length of the myvar is =  $myVarLength"

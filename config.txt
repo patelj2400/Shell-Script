@@ -1,0 +1,3 @@
+username=adminadmin
+password=secret
+hostname=example.com
